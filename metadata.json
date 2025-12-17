@@ -1,0 +1,7 @@
+{
+  "name": "Jarvis ",
+  "description": "An interactive AI tutor that teaches concepts step-by-step, adapts to student levels, and offers practice modes with voice interaction.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
